@@ -1,2 +1,2 @@
 # augenarzt-hetzendorf.github.io
-Website von Augenarzt-Hetzendotf auf github Pages
+Website von Augenarzt-Hetzendorf auf github Pages
